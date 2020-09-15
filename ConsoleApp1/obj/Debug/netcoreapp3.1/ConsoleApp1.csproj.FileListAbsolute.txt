@@ -1,0 +1,13 @@
+D:\AndroidLabs\lab1_2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\AndroidLabs\lab1_2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\AndroidLabs\lab1_2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\AndroidLabs\lab1_2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\AndroidLabs\lab1_2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\AndroidLabs\lab1_2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\AndroidLabs\lab1_2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\AndroidLabs\lab1_2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\AndroidLabs\lab1_2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\AndroidLabs\lab1_2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\AndroidLabs\lab1_2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\AndroidLabs\lab1_2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\AndroidLabs\lab1_2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
