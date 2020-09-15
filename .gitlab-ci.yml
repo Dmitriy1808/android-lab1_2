@@ -11,4 +11,4 @@ script:
 - '"C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\MSBuild.exe" ConsoleApp1.sln'
 artifacts:
 paths:
-- 'ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe'
+- 'ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe'
